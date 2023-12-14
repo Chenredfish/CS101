@@ -13,7 +13,7 @@ int main(){
       printf("%d元",i);
     }
     else{
-      printf("%d元",i)
+      printf("%d元",i);
     }
   }
   return 0;
