@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 int main(){
   int i=119;
   if(i<=30){
