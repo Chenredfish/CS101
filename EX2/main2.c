@@ -11,7 +11,7 @@ int main (){
     printf("IU");
   }
   else{
-    print("%d\n",i);
+    printf("%d\n",i);
   }
   return 0;
 }
