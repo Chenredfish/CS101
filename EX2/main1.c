@@ -1,11 +1,11 @@
-#include <iostream>
+#include <stdio.h>
 int main(){
   int i=1;
   if(i & (i-1)){
-    print("True")
+    print("True");
   }
   else{
-    print("False")
+    print("False");
   }
   return 0;
 }
