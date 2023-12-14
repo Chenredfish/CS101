@@ -2,10 +2,10 @@
 int main(){
   int i=1;
   if(i & (i-1)){
-    printf("True");
+    printf("False");
   }
   else{
-    printf("False");
+    printf("True");
   }
   return 0;
 }
